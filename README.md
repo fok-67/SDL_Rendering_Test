@@ -1,5 +1,5 @@
 # SDL2 render test
-<p>A very simple SDL2 <i>render in a secondary thread</i> test. Note that according to the SDL FAQ this is a bad idea.</p>
+<p>A very simple SDL2 <i>render in a secondary thread</i> test. Note that according to the SDL FAQ this is a bad idea. 😉</p>
 
 ## Getting Started
 <p>Use CMake on Linux and Visual Studio on Windows to compile the sources.</p>
